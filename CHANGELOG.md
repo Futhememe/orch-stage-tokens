@@ -1,5 +1,11 @@
 # @stage-lib/tokens
 
+## 0.2.0
+
+### Minor Changes
+
+- change how the values are on the object
+
 ## 0.1.3
 
 ### Patch Changes
