@@ -1,5 +1,11 @@
 # @stage-lib/tokens
 
+## 0.2.2
+
+### Patch Changes
+
+- ignore tsconfig.json for build
+
 ## 0.2.1
 
 ### Patch Changes
