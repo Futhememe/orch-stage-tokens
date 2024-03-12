@@ -99,4 +99,6 @@ export const colors = {
     200: "#fdf5e0",
     100: "#ffffff",
   },
+
+  test: "#fff",
 };
